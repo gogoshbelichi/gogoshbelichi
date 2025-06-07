@@ -1,5 +1,6 @@
 ## Hello there 👋
 ![image](https://www.codewars.com/users/gogoshbelichi/badges/large)
+![image](https://github.com/user-attachments/assets/d99d935c-d644-4396-875d-bd1ac6c6e68c)
 
 <!--
 **gogoshbelichi/gogoshbelichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
