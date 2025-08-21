@@ -1,6 +1,7 @@
 ## Hello there 👋
 ![image](https://www.codewars.com/users/gogoshbelichi/badges/large) 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/gogoshbelichi?theme=dark&font=Arimo)
 
 
 <!--
