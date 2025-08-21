@@ -1,5 +1,6 @@
 ## Hello there 👋
-![image](https://www.codewars.com/users/gogoshbelichi/badges/large)
+![image](https://www.codewars.com/users/gogoshbelichi/badges/large) [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gogoshbelichi)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <!--
 **gogoshbelichi/gogoshbelichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
