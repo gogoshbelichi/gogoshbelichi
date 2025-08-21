@@ -1,6 +1,6 @@
 ## Hello there 👋
 ![image](https://www.codewars.com/users/gogoshbelichi/badges/large) 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gogoshbelichi)](https://github.com/KnlnKS/leetcode-stats)
+![Static Badge](https://img.shields.io/badge/!%5BLeetCode%20user%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fdynamic%2Fjson%3Fstyle%3Dfor-the-badge%26label%3DLeetCode%26query%3DtotalSolved%26url%3Dhttps%253A%252F%252Fleetcode-stats-api.herokuapp.com%252Fgogoshbelichi%26logo%3Dleetcode%26logoColor%3Dyellow))
 
 
 <!--
