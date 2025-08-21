@@ -1,5 +1,6 @@
 ## Hello there 👋
-![image](https://www.codewars.com/users/gogoshbelichi/badges/large) [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gogoshbelichi)](https://github.com/KnlnKS/leetcode-stats)
+![image](https://www.codewars.com/users/gogoshbelichi/badges/large) 
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gogoshbelichi)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!--
