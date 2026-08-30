@@ -1,6 +1,5 @@
 ## Hello there 👋
 ![image](https://www.codewars.com/users/gogoshbelichi/badges/large) 
-[![Codewars](https://vercel.app)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gogoshbelichi?theme=dark&font=Arimo)
 
